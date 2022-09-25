@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="243" height="55.835" viewBox="0 0 243 55.835">
+  <g id="Logo" transform="translate(-80.162 -37.934)">
+    <rect id="Rectangle_3" data-name="Rectangle 3" width="5" height="6" transform="translate(102.051 61.934)" fill="#fff"/>
+    <rect id="Rectangle_7" data-name="Rectangle 7" width="6" height="6" transform="translate(108.051 61.934)" fill="#fff"/>
+    <rect id="Rectangle_8" data-name="Rectangle 8" width="5" height="6" transform="translate(102.051 69.934)" fill="#fff"/>
+    <rect id="Rectangle_9" data-name="Rectangle 9" width="6" height="6" transform="translate(108.051 69.934)" fill="#fff"/>
+    <g id="Group_199" data-name="Group 199">
+      <g id="Subtraction_2" data-name="Subtraction 2" transform="translate(87.052 37.934)" fill="none">
+        <path d="M22,16H0C0,7.177,4.935,0,11,0S22,7.177,22,16Z" stroke="none"/>
+        <path d="M 20.44931602478027 14.5 C 20.21840667724609 11.1036901473999 19.20501899719238 7.96556282043457 17.53804969787598 5.541069984436035 C 15.74635028839111 2.935139894485474 13.42442035675049 1.5 11 1.5 C 8.575460433959961 1.5 6.2534499168396 2.935199975967407 4.461709976196289 5.541210174560547 C 2.794752836227417 7.965734004974365 1.781463027000427 11.1036205291748 1.550656914710999 14.5 L 20.44931602478027 14.5 M 22 16 L -1.77635683940025e-15 16 C -1.77635683940025e-15 7.177020072937012 4.93513011932373 0 11 0 C 17.0648307800293 0 21.99939918518066 7.177020072937012 22 15.99876976013184 L 22 16 Z" stroke="none" fill="#2e6ec8"/>
+      </g>
+      <path id="Path_2" data-name="Path 2" d="M-.19,3.206,14.333-6.476H22.8l16.943,47.2-35.1,2.42-8.472-2.42Z" transform="translate(83.982 50.626)" fill="#0d6ecf"/>
+      <path id="Path_1" data-name="Path 1" d="M.357-1.093,14.88-11.985,29.4.117l2.375,34.976L-3.274,37.635Z" transform="translate(91.907 56.135)" fill="#03b2ee"/>
+      <rect id="Rectangle_10" data-name="Rectangle 10" width="5" height="5" transform="translate(101.052 64.934)" fill="#fff"/>
+      <rect id="Rectangle_11" data-name="Rectangle 11" width="5" height="5" transform="translate(108.052 64.934)" fill="#fff"/>
+      <rect id="Rectangle_12" data-name="Rectangle 12" width="5" height="5" transform="translate(101.052 71.934)" fill="#fff"/>
+      <rect id="Rectangle_13" data-name="Rectangle 13" width="5" height="5" transform="translate(108.052 71.934)" fill="#fff"/>
+      <g id="Subtraction_3" data-name="Subtraction 3" transform="translate(95.052 37.934)" fill="none">
+        <path d="M21.991,16H.009C0,15.774,0,15.573,0,15.385,0,6.9,4.935,0,11,0S22,6.9,22,15.385c0,.2,0,.409-.009.614Z" stroke="none"/>
+        <path d="M 20.48089218139648 14.5 C 20.3311824798584 11.04219150543213 19.30535316467285 7.832814693450928 17.55433082580566 5.383729934692383 C 15.76371002197266 2.879270076751709 13.43599987030029 1.5 11 1.5 C 8.564000129699707 1.5 6.236289978027344 2.879270076751709 4.445670127868652 5.383729934692383 C 2.694647550582886 7.832814693450928 1.668816566467285 11.04219150543213 1.519107222557068 14.5 L 20.48089218139648 14.5 M 21.99134063720703 16 L 0.008670000359416008 16 C 0.002430000109598041 15.77359008789062 -1.77635683940025e-15 15.57289028167725 -1.77635683940025e-15 15.38521003723145 C -1.77635683940025e-15 6.901770114898682 4.934579849243164 0 11 0 C 17.06542015075684 0 22 6.901770114898682 22 15.38521003723145 C 22 15.58800983428955 21.99708938598633 15.79446029663086 21.99136924743652 15.99880981445312 L 21.99134063720703 16 Z" stroke="none" fill="#03b2ee"/>
+      </g>
+    </g>
+    <text id="Marketplace" transform="translate(146.162 81.934)" fill="#101010" font-size="30" font-family="Gilroy-ExtraBold, Gilroy" font-weight="800"><tspan x="0" y="0">Marketplace</tspan></text>
+  </g>
+</svg>
